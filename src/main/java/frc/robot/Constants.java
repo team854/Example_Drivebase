@@ -16,7 +16,7 @@ public final class Constants {
   public static class OperatorConstants {
     public static final int kDriverControllerPort = 0;
 
-    public static final double FORWARD_SPEED = 0.2;
+    public static final double FORWARD_SPEED = 0.3;
     public static final double TURN_SPEED = 0.2;
   }
 
